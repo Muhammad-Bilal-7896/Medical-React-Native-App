@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "563098186921",
+    "project_id": "pharmapedia-pakistan-7896",
+    "storage_bucket": "pharmapedia-pakistan-7896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563098186921:android:5bb0f16e64e9648fb1e5b8",
+        "android_client_info": {
+          "package_name": "com.pharmapedia_pakistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563098186921-iqeaddf1e2u2oj9hca24pk43945f8ufa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pharmapedia_pakistan",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "563098186921-r28uog4nsnhi4ka0meqtkf4kt8tqcd31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRv6XT6jRm-kSLCNQiroUHTiZXAhHDCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563098186921-r28uog4nsnhi4ka0meqtkf4kt8tqcd31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
